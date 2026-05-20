@@ -3,7 +3,7 @@ Simple test for your Gemini API key
 """
 import requests
 
-API_KEY = "AIzaSyAivQg8d1g-fLn98PbzQ8poXc2EKFb-1kE"
+API_KEY = "___use gemini API key"
 
 print("Testing Gemini API Key...")
 print("=" * 60)
